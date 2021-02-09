@@ -3,6 +3,8 @@ This project takes data files from wikipedia of how many views each page has as 
 
 It then combines the views from each country and discards any pieces with less than 100 views
 
+This layer of the project gives the top 10 of the resulting page counts in order
+
 ## Technologies Used
 
 * Hive
